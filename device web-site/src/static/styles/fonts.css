@@ -1,0 +1,28 @@
+/**/
+@font-face {
+    font-display: swap;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 500;
+    src: url("../fonts/OpenSans-Light.woff2"),
+         url("../fonts/OpenSans-Light.woff")
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    src: url("../fonts/Gilroy-ExtraBold.woff");
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 400;
+    src: url("../fonts/Gilroy-Light.woff");
+}
+
+
+
